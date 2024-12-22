@@ -7,3 +7,7 @@ Code for our paper ``Cohort-Individual Cooperative Learning for Multimodal Cance
 ```
 python main.py CCL
 ```
+
+
+I will update the detailed usage recently.  
+Currently, you may check [[CMTA](https://github.com/FT-ZHOU-ZZZ/CMTA)] for more details.
