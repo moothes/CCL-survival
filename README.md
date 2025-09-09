@@ -42,5 +42,5 @@ If you find our work useful in your research, please consider citing our paper a
   year={2024},
 }
 ```
-This code is available for non-commercial academic purposes. If you have any question, feel free to email [Huajun ZHOU](csehjzhou@ust.hk).
+This code is available for non-commercial academic purposes. If you have any question, feel free to email [csehjzhou@ust.hk](csehjzhou@ust.hk).
  
